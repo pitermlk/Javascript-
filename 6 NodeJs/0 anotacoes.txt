@@ -13,3 +13,4 @@ PADRÃO DE PROJETOS NODE = COMMONS AND
 NPM = GERENCIADOR DE PACOTES DO NODE 
 
 
+git remote add origin https://github.com/pitermlk/Javascript-.git
